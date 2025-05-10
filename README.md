@@ -11,8 +11,8 @@ We present an advanced version of the Socially Attentive Reinforcement Learning 
 ## System Setup
 ![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/system.png)
 
-## VIdeo
-![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/example.git)
+## Video
+![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/example.gif)
 
 ## Code Structure
 - **[Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2)**: Crowd simulator using Optimal Reciprocal Collision Avoidance algorithm.
