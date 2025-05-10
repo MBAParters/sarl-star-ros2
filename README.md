@@ -5,11 +5,14 @@ ROS implementation of the paper [SARL*: Deep Reinforcement Learning based Human-
 We present an advanced version of the Socially Attentive Reinforcement Learning (SARL) algorithm, namely SARL*, to achieve human-aware navigation in indoor environments. Recently, deep RL has achieved great success in generating human-aware navigation policies. However, there exist some limitations in the real-world implementations: the learned navigation policies are limited to certain distances associated with the training process, and the simplification of the environment neglects obstacles other than humans. In this work, we improve the SARL algorithm by introducing a dynamic local goal setting mechanism and a map-based safe action space to tackle the above problems. 
 
 ## Method Overview
-![For more details, please refer to the paper.](https://github.com/LeeKeyu/sarl_star/blob/master/imgs/overview.png)
+![For more details, please refer to the paper.](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/overview.png)
 
 
 ## System Setup
-![](https://github.com/LeeKeyu/sarl_star/blob/master/imgs/system.png)
+![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/system.png)
+
+## VIdeo
+![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/example.git)
 
 ## Code Structure
 - **[Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2)**: Crowd simulator using Optimal Reciprocal Collision Avoidance algorithm.
