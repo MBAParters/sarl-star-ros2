@@ -24,7 +24,7 @@ We present an advanced version of the Socially Attentive Reinforcement Learning 
 
 ## Build & Install
 Our codes have been tested in Ubuntu 22.04 with Python 3.10.12. 
-1. Install [ROS humble](http://wiki.ros.org/humble/Installation/Ubuntu).
+1. Install [ROS2 humble](http://wiki.ros.org/humble/Installation/Ubuntu).
 2. Create and build a catkin workspace and download the codes into src/:
 ```
 mkdir -p ~/sarl_ws/src
