@@ -11,17 +11,13 @@ We present an advanced version of the Socially Attentive Reinforcement Learning 
 ## System Setup
 ![](https://github.com/LeeKeyu/sarl_star/blob/master/imgs/system.png)
 
-## Some Experiments
-![For more details, please refer to the paper.](https://github.com/LeeKeyu/sarl_star/blob/master/imgs/experiments.png)
-
 ## Code Structure
 - **[Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2)**: Crowd simulator using Optimal Reciprocal Collision Avoidance algorithm.
 - [**laser_filters**](http://wiki.ros.org/laser_filters): ROS package to filter out unwanted laser scans. (**optional**)
- - **[navigation](http://wiki.ros.org/navigation/Tutorials)**: Modified ROS navigation stack to provide AMCL localization, costmaps and basic path planners. **Note that** our dynamic local goal setting algorithm is implemented in navigation/dwa_local_planner/src/dwa_planner_ros.cpp. Therefore, if you have installed the original ROS navigation stack before, we suggest that you uninstall it and build the stack in our repository (following the steps in the next part "Build & Install") to make sure that our modification make effect.
+ - **[navigation2](https://wiki.ros.org/nav2_navigation)**: Modified ROS navigation stack to provide AMCL localization, costmaps and basic path planners. **Note that** our dynamic local goal setting algorithm is implemented in navigation/dwa_local_planner/src/dwa_planner_ros.cpp. Therefore, if you have installed the original ROS navigation stack before, we suggest that you uninstall it and build the stack in our repository (following the steps in the next part "Build & Install") to make sure that our modification make effect.
  - **[people](http://wiki.ros.org/people)**: ROS stack to detect and track humans using sensor information.
- - [**rplidar_ros**](http://wiki.ros.org/rplidar_ros): ROS package to use ROS with rplidar sensor.
- - **sarl_star_ros** : Core ROS package to run the SARL* navigation algorithm.
- - **[turtlebot_apps](https://wiki.ros.org/Robots/TurtleBot4)**: ROS stack to use ROS with TurtleBot.
+  - **sarl_star_ros2** : Core ROS package to run the SARL* navigation algorithm.
+ - **[turtlebot4](https://wiki.ros.org/Robots/TurtleBot4)**: ROS stack to use ROS with TurtleBot.
 
 ## Build & Install
 Our codes have been tested in Ubuntu 22.04 with Python 3.10.12. 
