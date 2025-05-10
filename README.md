@@ -95,16 +95,16 @@ You will see the rviz window which shows the robot navigation in real time. Draw
 
 ## Reference
 
-- **[1] Everett M., et al."Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning". IROS 2018.
-- **[2] Long P ., et al.Deep Reinforcement Learning". ICRA 2018."Towards Optimally Decentralized Multi-Robot Collision Avoidance via
-- **[3] Chen Y ., et al."Socially Aware Motion Planning with Deep Reinforcement Learning".IROS 2017.
-- **[4] Helbing D., Molnar P ."Social force model for pedestrian dynamics". Physical Review E1995.
-- **[5] V an den Berg J., et al."Reciprocal n-body Collision Avoidance". ISRR 2011.
-- **[6] Sadeghian A., et al."CAR-Net: Clairvoyant Attentive Recurrent Network". ECCV 2018.
-- **[7] Chen C., et al."Crowd-Robot Interaction: Crowd-aware Robot Navigation withAttention-based Deep Reinforcement Learning". ICRA 2019.
-- **[8] Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance. IEEETrans Robot Autom. 1997;4(5):23-33.
-- **[9] Macenski S, Martín F, White R, Clavero JG. ROS 2 System Architectures. IEEE RobotAutom Lett. 2022;7(3):1-8.
-- **[10]Chen C, Hu S, Nikdel P , Mori G, Savva M. Crowd-Robot Interaction: Crowd-awareRobot Navigation with Attention-based Deep Reinforcement Learning. In: 2019International Conference on Robotics and Automation (ICRA); 2019 May 20-24;Montreal, Canada. Piscataway: IEEE; 2019. p. 3225-31.
+- [1] Everett M., et al."Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning". IROS 2018.
+- [2] Long P ., et al.Deep Reinforcement Learning". ICRA 2018."Towards Optimally Decentralized Multi-Robot Collision Avoidance via
+- [3] Chen Y ., et al."Socially Aware Motion Planning with Deep Reinforcement Learning".IROS 2017.
+- [4] Helbing D., Molnar P ."Social force model for pedestrian dynamics". Physical Review E1995.
+- [5] V an den Berg J., et al."Reciprocal n-body Collision Avoidance". ISRR 2011.
+- [6] Sadeghian A., et al."CAR-Net: Clairvoyant Attentive Recurrent Network". ECCV 2018.
+- [7] Chen C., et al."Crowd-Robot Interaction: Crowd-aware Robot Navigation withAttention-based Deep Reinforcement Learning". ICRA 2019.
+- [8] Fox D, Burgard W, Thrun S. The dynamic window approach to collision avoidance. IEEETrans Robot Autom. 1997;4(5):23-33.
+- [9] Macenski S, Martín F, White R, Clavero JG. ROS 2 System Architectures. IEEE RobotAutom Lett. 2022;7(3):1-8.
+- [10]Chen C, Hu S, Nikdel P , Mori G, Savva M. Crowd-Robot Interaction: Crowd-awareRobot Navigation with Attention-based Deep Reinforcement Learning. In: 2019International Conference on Robotics and Automation (ICRA); 2019 May 20-24;Montreal, Canada. Piscataway: IEEE; 2019. p. 3225-31.
 
 
 
