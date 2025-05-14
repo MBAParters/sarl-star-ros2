@@ -8,9 +8,6 @@ We present an advanced version of the Socially Attentive Reinforcement Learning 
 ![For more details, please refer to the paper.](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/overview.png)
 
 
-## System Setup
-![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/system.png)
-
 ## Video
 ![](https://github.com/MBAParters/sarl-star-ros2/blob/master/imgs/example.gif)
 
